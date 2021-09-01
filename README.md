@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -27,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/GabrielIvanG/order-summary-component-main-FrontEndMENTOR)
+- Live Site URL: [Add live site URL here](https://gabrielivang.github.io/order-summary-component-main-FrontEndMENTOR/)
 
 ## My process
 
@@ -38,11 +37,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-
 ### Useful resources
 
 - [Flex guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for flex reason. I really liked this guide and will use it going forward.
-
 
 ## Author
 
